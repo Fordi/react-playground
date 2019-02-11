@@ -6,12 +6,11 @@
   "main": "src/index.js",
   "dependencies": {
     "react": "16.8.0",
-    "react-dom": "16.8.0"
-  },
-  "devDependencies": {
+    "react-dom": "16.8.0",
     "node-sass": "4.11.0",
     "react-scripts": "2.0.3"
   },
+  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
