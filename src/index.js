@@ -1,13 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
-import classes from './css/global/index.scss';
-
-console.log(Object.keys(classes));
+import App from './App';
 
 ReactDOM.render(
-  <div className="App">
-    <span>Hello, world.</span>
-  </div>,
+  <App />,
   document.getElementById('root'),
 );
