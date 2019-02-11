@@ -4,11 +4,12 @@
   "description": "Just a place to play with ideas",
   "keywords": [],
   "main": "src/index.js",
-  "dependencies": {},
+  "dependencies": {
+    "react": "16.8.0",
+    "react-dom": "16.8.0"
+  },
   "devDependencies": {
     "node-sass": "4.11.0",
-    "react": "16.8.0",
-    "react-dom": "16.8.0",
     "react-scripts": "2.0.3"
   },
   "scripts": {
