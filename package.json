@@ -4,7 +4,7 @@
   "description": "Just a place to play with ideas",
   "keywords": [],
   "dependencies": {
-    "next": "15.1.4",
+    "next": ">=15.2.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "sass": "^1.83.1"
